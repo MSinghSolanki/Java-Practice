@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Banking System/Bank/test-lib"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true,
+		"java.project.referencedLibraries": {
+			"include": [
+				"lib/**/*.jar",
+				"c:\\Users\\mohit.Mohitlappy\\Downloads\\mysql-connector-java-8.0.28.jar"
+			],
+			"exclude": [
+				"c:\\Users\\mohit.Mohitlappy\\Downloads\\mysql-connector-java-8.0.28.jar"
+			]
+		}
+	}
+}
